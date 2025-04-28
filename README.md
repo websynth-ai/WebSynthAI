@@ -2,9 +2,9 @@
 <div align="center">
     
 [![PyPI - License](https://img.shields.io/pypi/l/agentlab?style=flat-square)]([https://opensource.org/licenses/MIT](http://www.apache.org/licenses/LICENSE-2.0))
-[![GitHub star chart](https://img.shields.io/github/stars/websynthai/WebSynthAI?style=flat-square)](https://star-history.com/#websynthai/WebSynthAI)
-[![Latest Release](https://img.shields.io/github/v/release/websynthai/WebSynthAI?style=flat-square)](https://github.com/websynthai/WebSynthAI/releases)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](https://github.com/websynthai/WebSynthAI/issues)
+[![GitHub star chart](https://img.shields.io/github/stars/websynth-ai/WebSynthAI?style=flat-square)](https://star-history.com/#websynth-ai/WebSynthAI)
+[![Latest Release](https://img.shields.io/github/v/release/websynth-ai/WebSynthAI?style=flat-square)](https://github.com/websynth-ai/WebSynthAI/releases)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](https://github.com/websynth-ai/WebSynthAI/issues)
 
 </div>
 
